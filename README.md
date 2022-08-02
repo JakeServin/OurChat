@@ -1,7 +1,7 @@
 # React ChatRoom
 
 <p align="center">
-<img src="images/wordlecloneMockup.PNG" alt="img-coming" width="300" />
+<img src="images/reactChatRoomMockup.PNG" alt="img-coming" width="300" />
 </p>
 
 ## Overview:
