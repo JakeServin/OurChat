@@ -1,7 +1,7 @@
 # React ChatRoom
 
 <p align="center">
-<img src="images/reactChatRoomMockup.PNG" alt="img-coming" width="300" />
+<img src="images/reactChatRoomMockup.PNG" alt="img-coming" width="90%" />
 </p>
 
 ## Overview:
