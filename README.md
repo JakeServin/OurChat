@@ -1,4 +1,4 @@
-# React ChatRoom
+# OurChat
 
 <p align="center">
 <img src="images/reactChatRoomMockup.PNG" alt="img-coming" width="90%" />
